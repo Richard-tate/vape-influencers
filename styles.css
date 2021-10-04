@@ -570,7 +570,7 @@ main {
 	line-height: 1.25;
 }
 .circle span:first-child {
-	font-size: 1.35rem;
+	font-size: 1.15rem;
 }
 .circle span:last-child {
 	font-size: 0.65rem;
@@ -589,6 +589,7 @@ main {
 .text_box {
 	width: 30%;
 	height: 100%;
+	margin-left: 0.2rem;
 }
 .text_box p {
 	width: 100%;
@@ -600,8 +601,8 @@ main {
 }
 
 .circle_small {
-	width: 60px;
-	height: 60px;
+	width: 50px;
+	height: 0px;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
