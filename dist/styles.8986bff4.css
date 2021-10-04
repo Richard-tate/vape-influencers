@@ -692,6 +692,9 @@ main {
 		width: 33%;
 		height: 400px;
 	}
+	.card_header {
+		padding: 0 2rem;
+	}
 	.card.active {
 		transform: translateX(-50%) scale(1.35);
 		top: -25px;
