@@ -151,7 +151,7 @@ body {
 /* header section top  */
 /* nav */
 .header__section {
-	background: url(./images/Header_Home_Mobile.jpg) no-repeat,
+	background: url(/Header_Home_Mobile.109d9da3.jpg) no-repeat,
 		var(--clr-text-primary);
 	background-size: contain;
 
@@ -223,7 +223,7 @@ body {
 }
 @media screen and (min-width: 768px) {
 	.header__section {
-		background: url(./images/Header_Home_Desktop.jpg) no-repeat, #f1f2f2;
+		background: url(/Header_Home_Desktop.b714e8b6.jpg) no-repeat, #f1f2f2;
 		min-height: 100vh;
 		background-size: cover;
 		background-position: center;
@@ -768,3 +768,6 @@ main {
 		font-size: 5rem;
 	}
 }
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
