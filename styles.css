@@ -308,7 +308,7 @@ body {
 .hero_card {
 	grid-area: hero;
 	margin-top: 1rem;
-	padding: 1rem 0;
+	padding: 1rem;
 }
 .hero_card::before {
 	content: "";
