@@ -230,10 +230,10 @@ body {
 		margin-top: 0;
 	}
 	.container {
-		width: 90%;
+		width: 85%;
 	}
 	.container.header__container {
-		width: 100%;
+		width: 90%;
 		box-shadow: none;
 		justify-content: space-between;
 		padding: 1rem;
@@ -241,6 +241,7 @@ body {
 		display: flex;
 		align-items: center;
 		flex-wrap: wrap;
+		margin: 0 auto;
 	}
 	.menu,
 	.menu.open {
@@ -308,7 +309,7 @@ body {
 .hero_card {
 	grid-area: hero;
 	margin-top: 1rem;
-	padding: 1rem;
+	padding: 1rem 0;
 }
 .hero_card::before {
 	content: "";
